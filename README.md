@@ -4,7 +4,7 @@ history. It outputs a safety score and indicates whether the road is safe or dan
 
 
 
-I am going to describe you step by Steps:
+I am going to describe you step by step:
 
 
 1. Clone the repository:

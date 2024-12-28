@@ -8,7 +8,7 @@ I am going to describe you step by Steps:
 
 
 1. Clone the repository:
-git clone https://github.com/your-username/Road-Safety-Index-Calculator.git
+git clone https://github.com/yubraj001/Road-Safety-Index-Calculator.git
 
 2. Navigate to the project folder:
 cd Road-Safety-Index-Calculator
